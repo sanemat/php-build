@@ -1,0 +1,3 @@
+install_package "https://github.com/moriyoshi/php-src/tarball/PHP_5_3-autobox/moriyoshi-php-src-b2cda6e.tar.gz"
+install_pyrus
+install_xdebug "2.2.0"
