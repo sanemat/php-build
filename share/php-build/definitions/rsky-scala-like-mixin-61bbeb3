@@ -1,0 +1,3 @@
+install_package "https://github.com/rsky/php-src/tarball/scala-like-mixin/rsky-php-src-61bbeb3.tar.gz"
+install_pyrus
+install_xdebug "2.2.0"

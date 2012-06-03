@@ -1,0 +1,3 @@
+install_package "https://github.com/rsky/php-src/tarball/block-style-lambda/rsky-php-src-69e7f53.tar.gz"
+install_pyrus
+install_xdebug "2.2.0"
