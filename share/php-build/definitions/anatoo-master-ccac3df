@@ -1,0 +1,3 @@
+install_package "https://github.com/anatoo/php-src/tarball/master/anatoo-php-src-ccac3df.tar.gz"
+install_pyrus
+install_xdebug "2.2.0"
